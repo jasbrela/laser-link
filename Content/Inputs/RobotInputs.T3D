@@ -1,0 +1,10 @@
+Begin Object Class=/Script/EnhancedInput.InputMappingContext Name="RobotInputs" ExportPath="/Script/EnhancedInput.InputMappingContext'/Game/Inputs/RobotInputs.RobotInputs'"
+   Mappings(0)=(Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveUp.MoveUp'",Key=W)
+   Mappings(1)=(Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveUp.MoveUp'",Key=Up)
+   Mappings(2)=(Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveDown.MoveDown'",Key=S)
+   Mappings(3)=(Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveLeft.MoveLeft'",Key=A)
+   Mappings(4)=(Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveRight.MoveRight'",Key=D)
+   Mappings(5)=(PlayerMappableOptions=(Name="MoveDown",DisplayName=NSLOCTEXT("", "40FE25D24CF4DFA91A1D42825308FB39", "MoveDown")),Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveDown.MoveDown'",Key=Down)
+   Mappings(6)=(PlayerMappableOptions=(Name="MoveLeft",DisplayName=NSLOCTEXT("", "EC1E254F41A8C776D64CDFA43673BE87", "MoveLeft")),Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveLeft.MoveLeft'",Key=Left)
+   Mappings(7)=(PlayerMappableOptions=(Name="MoveRight",DisplayName=NSLOCTEXT("", "A774EF12496C4AE4BE597998062823CB", "MoveRight")),Action="/Script/EnhancedInput.InputAction'/Game/Inputs/Mappings/MoveRight.MoveRight'",Key=Right)
+End Object
